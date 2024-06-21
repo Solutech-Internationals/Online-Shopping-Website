@@ -94,7 +94,7 @@ function HomePage(){
                                     </div>
 
 
-
+                                    {/*-------------------------------*/}
 
 
                                     <div className="relative w-[100%] h-[360px] bg-[#D9D9D9] top-[152px]   ">
@@ -108,6 +108,8 @@ function HomePage(){
                                         <img src={images.PhoneGroup} alt="" className="absolute h-[350px]  -mt-[22.4rem] right-[5%] z-[99999]  max-[896px]:-right-[4%]  max-[797px]:h-[280px] max-[797px]:-mt-[18.2rem] max-[518px]:h-[250px] max-[518px]:-mt-[6.4rem] max-[426px]:h-[200px] max-[426px]:-mt-[3.3rem]"/>
 
                                     </div>
+
+                                    {/*---------- About Us -------------*/}
 
                                     <div className="mt-52">
                                         <h1 className="font-darker-grotesque text-[37px] font-[600] leading-[50.17px] text-left mt-20 ml-32">
