@@ -23,7 +23,7 @@ function Nav(){
 
     return(
         <>
-            <nav className="px-5 w-full h-[60px] bg-[#D9D9D9]  shadow-md flex justify-between items-center absolute z-[99999999999999999999]">
+            <nav className="px-5 w-full h-[60px] bg-[#D9D9D9]  shadow-md flex justify-between items-center fixed z-[99999999999999999999]">
                 {/* Logo */}
                 <div className="logo flex items-center">
                     <img src={images.Logo} alt="logo" className="h-8 w-auto mr-2" />
